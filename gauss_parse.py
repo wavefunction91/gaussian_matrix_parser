@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Extract matrices from Gauusian .log files and write them to text. 
 # Copyright (C) 2013  Joshua J Goings
 # 
